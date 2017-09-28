@@ -1,0 +1,12 @@
+spring.mvc.view.prefix=/WEB-INF/pages/
+spring.mvc.view.suffix=.jsp
+
+
+server.context-path=/CBA
+server.port=8081
+
+
+spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
+spring.datasource.url=jdbc:oracle:thin:@ORCL:1521:ORCL
+spring.datasource.username=cba6pm
+spring.datasource.password=cba6pm
